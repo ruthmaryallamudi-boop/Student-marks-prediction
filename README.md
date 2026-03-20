@@ -1,2 +1,3 @@
-# Student-marks-prediction
-Predict marks using ML
+## 📷 Output Screenshot
+
+![Output](output.png)
